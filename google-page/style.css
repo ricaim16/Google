@@ -101,7 +101,7 @@ footer {
 }
 
 footer a {
-  color: #595b5f;
+  color: white;
   display: inline-block;
   padding: 12px 11.3px;
   font-size: 14px;
@@ -112,7 +112,7 @@ footer a:hover {
 }
 
 .links {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid black;
   display: flex;
   align-items: center;
 justify-content: center;
